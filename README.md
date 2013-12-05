@@ -1,4 +1,4 @@
-### Boilerplate PhoneGap/Cordova App with RequireJS, Backbone and jQuery Mobile
+### Smallest demo application for a Mobile Development Lecture
 
 Latest release includes following libs:
 - [RequireJS](http://requirejs.org/) 2.0.6 (with domReady 2.0.1 and text 2.0.3 plugins)
