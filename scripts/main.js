@@ -19,7 +19,7 @@ require.config({
         // jQuery
         jquery:'libs/jquery/jquery-1.8.2',
         // jQuery Mobile framework
-        jqm:'libs/jquery.mobile/jquery.mobile-1.2.0',
+        jqm:'libs/jquery.mobile/jquery.mobile-1.3.2',
         // jQuery Mobile plugin for Backbone views navigation
         jqmNavigator:'libs/jquery.mobile/jqmNavigator'
     },
